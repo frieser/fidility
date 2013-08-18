@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install type="module" version="1.5.0">
+    <name>Modulo para tarjetas</name>
+    <author>Agoralabs</author>
+    <version>1.5.0</version>
+    <creationDate>05.08.2010</creationDate>
+    <description>Modulo que carga las tarjetas</description>
+    <authorEmail>agoralabs@gmx.com</authorEmail>
+    <files>
+	<filename module="mod_tarjetas">mod_tarjetas.php</filename>
+       	<filename>helper.php</filename>
+		<filename>mod_tarjetas.xml</filename>
+       	<filename>tmpl/default.php</filename>
+       	<filename>tmpl/js/carousel.js</filename>
+       	<filename>tmpl/images/arrow_left.png</filename>
+       	<filename>tmpl/images/arrow_right.png</filename>
+       	<filename>tmpl/images/carousel-bg.png</filename>
+       	<filename>tmpl/images/carousel-panel-bg.png</filename>
+    </files>
+<params>
+</params>
+</install>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install type="module" version="1.5.0">
+    <name>Generador de codigos</name>
+    <author>Agoralabs</author>
+    <version>1.5.0</version>
+    <creationDate>05.08.2010</creationDate>
+    <description>Modulo que genera codigos de barras</description>
+    <authorEmail>agoralabs@gmx.com</authorEmail>
+    <files>
+	<filename module="mod_codgen">mod_codgen.php</filename>
+       	<filename>helper.php</filename>
+		<filename>mod_codgen.xml</filename>
+       	<filename>tmpl/default.php</filename>
+       	<filename>tmpl/js/codgen.js</filename>
+       	
+    </files>
+<params>
+</params>
+</install>
